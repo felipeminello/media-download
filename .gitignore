@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.egg-info/
+dist/
+out/
+*.mp4
+*.mkv
+*.webm
+*.mp3
+*.m4a
+*.opus
+*.flac
+*.wav
+*.part
+*.ytdl
+.DS_Store
